@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/yalu102-18C0C186-73EE-45E6-A3A3-8F1DEDFB6E41/yalu102-18C0C186-73EE-45E6-A3A3-8F1DEDFB6E41.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://pbs.twimg.com/profile_images/815664569452478464/yD4oQJXp_400x400.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://pbs.twimg.com/profile_images/815664569452478464/yD4oQJXp_400x400.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.intelcent.iCallLiaoLeMe
+</string>
+				<key>bundle-version</key>
+				<string>2.5.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>yalu 102</string>
+				<key>title</key>
+				<string>Yalu 102 By OmarLaith</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
